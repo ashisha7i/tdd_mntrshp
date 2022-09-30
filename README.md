@@ -8,3 +8,17 @@ Topics discussed
 - `match` (Only discussed. Supported in Python versions `3.10.x` and above) and comparision with `if ... elif ... else`
 - `pass` statement
 - `import` functions from another python file
+
+
+## Next / Planned
+- `*args` and `**kwargs`
+- Exceptions
+- Assert Statement
+- Exception Handling
+- Anonymous/Lambda Functions
+- Classes
+    - `__init__` method
+    - `__str__` method
+    - `self` parameter
+- Magic Methods (a.k.a. Dunder Methods)
+- Operator Overloading
