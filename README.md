@@ -22,3 +22,7 @@ Topics discussed
     - `self` parameter
 - Magic Methods (a.k.a. Dunder Methods)
 - Operator Overloading
+
+## Requested Topics
+
+Feel Free to add any topic you want us to discuss here
