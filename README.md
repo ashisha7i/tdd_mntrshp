@@ -5,6 +5,6 @@ Check the 'src' folder for code
 Topics discussed
 - User Defined Functions (UDFs)
 - Ternary Operator
-- `match` (Only discussed. Supported in Python versions `3.10.x` and above)
+- `match` (Only discussed. Supported in Python versions `3.10.x` and above) and comparision with `if ... elif ... else`
 - `pass` statement
 - `import` functions from another python file
