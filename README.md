@@ -1,4 +1,15 @@
 Check the 'src' folder for code
+## 2022-10-14
+
+Topics discussed
+- Revisited UDFs and imports
+- Classes in Python
+    - attributes
+    - methods
+    - `__init__` method (constructor)
+    - `self` parameter in methods
+    - Instantiation of a Class (Creating an Object of a Class)
+   
 
 ## 2022-09-30
 
@@ -10,18 +21,27 @@ Topics discussed
 - `import` functions from another python file
 
 
-## Next / Planned
-- `*args` and `**kwargs`
-- Exceptions
-- Assert Statement
-- Exception Handling
-- Anonymous/Lambda Functions
+## Next / Planned (in no particular order)
+- ◻️ `*args` and `**kwargs`
+- ◻️ Exceptions
+- ◻️ Assert Statement
+- ◻️ Exception Handling
+- ◻️ Anonymous/Lambda Functions
+
 - Classes
-    - `__init__` method
-    - `__str__` method
-    - `self` parameter
-- Magic Methods (a.k.a. Dunder Methods)
-- Operator Overloading
+    - ✅ `__init__` method 
+    - ◻️ `__str__` method
+    - ✅ `self` parameter
+    - ◻️ other magic methods (a.k.a. Dunder Methods)
+    - ◻️ Operator Overloading
+
+- ◻️ Modules
+    - ◻️ Using modules
+    - ◻️ Creating our own modules
+    
+- ◻️ Introduction to PIP
+    - ◻️ Use some libraries from pypi.org
+  
 
 ## Requested Topics
 
