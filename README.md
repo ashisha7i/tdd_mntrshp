@@ -1,15 +1,4 @@
 Check the 'src' folder for code
-## 2022-10-14
-
-Topics discussed
-- Revisited UDFs and imports
-- Classes in Python
-    - attributes
-    - methods
-    - `__init__` method (constructor)
-    - `self` parameter in methods
-    - Instantiation of a Class (Creating an Object of a Class)
-   
 
 ## 2022-10-31
 Topics planned/discussed:
@@ -21,6 +10,17 @@ Topics planned/discussed:
 - [ ] Inheritance and `isinstance()`
 - [ ] `__name__` (what does the value `main` mean)
 
+## 2022-10-14
+
+Topics discussed
+- Revisited UDFs and imports
+- Classes in Python
+    - attributes
+    - methods
+    - `__init__` method (constructor)
+    - `self` parameter in methods
+    - Instantiation of a Class (Creating an Object of a Class)
+   
 ## 2022-09-30
 
 Topics discussed
