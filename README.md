@@ -1,5 +1,15 @@
 Check the 'src' folder for code
 
+## 2022-10-31
+Topics planned/discussed:
+
+- [ ] Classes continued
+- [ ] `__init__` with default parameters
+- [ ] `__str__`
+- [ ] `__eq__`
+- [ ] Inheritance and `isinstance()`
+- [ ] `__name__` (what does the value `main` mean)
+
 ## 2022-09-30
 
 Topics discussed
