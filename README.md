@@ -3,12 +3,12 @@ Check the 'src' folder for code
 ## 2022-10-31
 Topics planned/discussed:
 
-- [ ] Classes continued
-- [ ] `__init__` with default parameters
-- [ ] `__str__`
-- [ ] `__eq__`
-- [ ] Inheritance and `isinstance()`
-- [ ] `__name__` (what does the value `main` mean)
+- [x] Classes continued
+- [x] `__init__` with default parameters
+- [x] `__str__`
+- [x] `__eq__`
+- [x] Inheritance and `isinstance()`
+- [x] `__name__` (what does the value `main` mean)
 
 ## 2022-10-14
 
